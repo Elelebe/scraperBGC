@@ -3,6 +3,8 @@
 <h1 align="center">Scraper de Pokemón</h1>
 <p align="center">Uma busca simples e prática para informações sobre Pokemóns.</p>
 
- <img src = 'https://img.shields.io/badge/node-js-brightgreen' a href = 'https://nodejs.org/en/download/'>
+<a href = 'https://nodejs.org/en/download/'>
+ <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
+</a>
 
 <h2>Estrutura do Projeto<h2>
