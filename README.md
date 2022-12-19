@@ -16,7 +16,7 @@
 
 <ul>
  <li>
-  <input type = "text">Nome do Pokémon</input>
+  <input type = "text">'pokemon-name'</input>
  </li>
 </ul>
             
@@ -24,7 +24,13 @@
  
  <ul>
   <li>
-   <p>a</p>
+   <p>Tipo;</p>
+  </li>
+  <li>
+   <p>Altura;</p>
+  </li>
+  <li>
+   <p>Peso;</p>
   </li>
  </ul>
  
