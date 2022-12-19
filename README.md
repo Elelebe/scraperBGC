@@ -43,8 +43,14 @@
  
  <h2>Pré-Requisitos</h2>
 
-<h3>Antes de começar, você precisará do NodeJS 
+<h3>Antes de começar, você precisará instalar o  
 
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
 </a>
+ 
+ e opcionalmente o 
+ 
+ <a href = 'https://code.visualstudio.com'>
+  <img src = 'https://img.shields.io/badge/VS-Code-blue'>
+ </a>
