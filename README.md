@@ -59,12 +59,17 @@
  
  <h2>Rodando o servidor</h2>
 
-Para instalar e passar a usar o projeto, você deverá abrir o 'Git' e:
+Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
 
-1. **Clonar este repositório**
+1. **Inicializar o repositório**
+
+  ```shell
+  git init elelebe
+
+2. **Clonar este repositório**
 
    ```shell
-   $git clone https://github.com/Elelebe/scraperBGC/blob/main/index.js
+   git clone https://github.com/Elelebe/scraperBGC/blob/main/index.js
    ```
 
 2. **Start the site in `develop` mode.**
