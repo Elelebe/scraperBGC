@@ -48,6 +48,10 @@
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
  </a>
+ , o 
+ <a href = 'https://git-scm.com'>
+  <img src = 'https://img.shields.io/badge/Git-v2.39.0-orange'>
+ </a>
  e opcionalmente o 
  <a href = 'https://code.visualstudio.com'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
