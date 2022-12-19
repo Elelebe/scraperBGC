@@ -72,6 +72,12 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
  ```shell
  git clone https://github.com/Elelebe/scraperBGC
  ```
+ 
+ 2.1 **Também é possível baixá-lo**
+ 
+ ```shell
+ https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip
+ ```
 
 3. **Open the source code and start editing!**
 
