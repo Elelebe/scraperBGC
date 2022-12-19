@@ -51,4 +51,4 @@
  e opcionalmente o 
  <a href = 'https://code.visualstudio.com'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
- </a></h3>
+ </a>.</h3>
