@@ -3,7 +3,7 @@
 <h1 align="center">Scraper de Pokemón</h1>
 <p align="center">Uma busca simples e prática para informações sobre Pokemóns.</p>
 
-<a href = 'https://nodejs.org/en/download/' align = "center>
+<a href = 'https://nodejs.org/en/download/' align = "center">
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
 </a>
 
