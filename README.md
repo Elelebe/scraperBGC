@@ -57,13 +57,11 @@
 
 Para instalar e passar a usar o projeto, você deve:
 
-1. **Initialize a new project.**
+1. **Clonar este repositório**
 
    ```shell
-   npm init elelebe
+   https://github.com/Elelebe/scraperBGC/blob/main/index.js
    ```
-
-   Give it the name "My Gatsby Site".
 
 2. **Start the site in `develop` mode.**
 
