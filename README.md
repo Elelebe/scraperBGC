@@ -6,8 +6,6 @@
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
 </a>
 
-//<img src = ''>
-
 <h2>Sobre o Projeto</h2>
  
 <p>O arquivo foi criado com o intuito de pesquisar informações sobre Pokémons de forma concisa e direta.</p>
