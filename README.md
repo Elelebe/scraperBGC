@@ -87,6 +87,8 @@ por exemplo:
 const pokemon = 'Pikachu'
 ```
 
+7. **Apertar F5 e selecionar a opção 'NodeJS'
+
 ## 📝 Licença
 
 [MIT License](./LICENSE).
