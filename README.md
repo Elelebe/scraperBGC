@@ -2,12 +2,8 @@
 <img src = 'https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/03/pokemon-png-logo.png?fit=2000%2C736&ssl=1'>
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
-<a href = 'https://nodejs.org/en/download/'>
- <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
-</a>
-
 # Índice 
-* [Scraper de Pokémon + Badge](#scraper-de-pokémon)
+* [Scraper de Pokémon](#scraper-de-pokémon)
 * [Índice](#índice)
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -44,3 +40,11 @@
    <p>Peso;</p>
   </li>
  </ul>
+ 
+ <h2>Pré-Requisitos</h2>
+
+<h3>Antes de começar, você precisará do NodeJS 
+
+<a href = 'https://nodejs.org/en/download/'>
+ <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
+</a>
