@@ -55,7 +55,7 @@
  
  <h2>Rodando o servidor</h2>
 
-Para instalar e passar a usar o projeto, você deve:
+Para instalar e passar a usar o projeto, você deverá abrir o 'npm' e:
 
 1. **Clonar este repositório**
 
