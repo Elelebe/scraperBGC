@@ -14,8 +14,9 @@
 <p>O Scraper de Pokémon foi criado com o intuito de pesquisar informações de forma concisa e direta.</p>
 <p>É possível utilizar do arquivo da seguinte forma:<p>
  
- <li>
-  <ul>
+ <ul>
+  <li>
    <h4>a</h4>
-  </ul>
- </li>
+  </li>
+ </ul>
+ 
