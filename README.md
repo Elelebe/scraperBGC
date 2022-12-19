@@ -8,8 +8,8 @@
 
 # Índice 
 * [Scraper de Pokémon + Badge](#scraper-de-pokémon)
-* [Sobre o Projeto](#sobre-o-projeto)
 * [Índice](#índice)
+* [Sobre o Projeto](#sobre-o-projeto)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
