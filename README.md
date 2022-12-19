@@ -78,3 +78,7 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
    Your site is now running at `http://localhost:8000`. Open the `my-gatsby-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes, and the browser will update in real time!
 
 At this point, you’ve got a fully functional Gatsby website. For additional information on how you can customize your Gatsby site, see our [plugins](https://gatsbyjs.com/plugins/) and [the official tutorial](https://www.gatsbyjs.com/tutorial/).
+
+## 📝 Licença
+
+[MIT License](./LICENSE).
