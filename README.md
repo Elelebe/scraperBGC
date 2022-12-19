@@ -2,4 +2,7 @@
 
 <h1 align="center">Scraper de Pokemón</h1>
 
+## Descrição do Projeto
+<p align="center">Escrever uma breve descrição</p>
+
 <h2>Estrutura do Projeto<h2>
