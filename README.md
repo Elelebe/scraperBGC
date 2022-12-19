@@ -55,19 +55,27 @@
  
  <h2>Rodando o servidor</h2>
 
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+You can get a new Gatsby site up and running on your local dev environment in 5 minutes with these four steps:
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+1. **Initialize a new project.**
 
-# Vá para a pasta server
-$ cd server
+   ```shell
+   npm init gatsby
+   ```
 
-# Instale as dependências
-$ npm install
+   Give it the name "My Gatsby Site".
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+2. **Start the site in `develop` mode.**
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+   Next, move into your new site’s directory and start it up:
+
+   ```shell
+   cd my-gatsby-site/
+   npm run develop
+   ```
+
+3. **Open the source code and start editing!**
+
+   Your site is now running at `http://localhost:8000`. Open the `my-gatsby-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes, and the browser will update in real time!
+
+At this point, you’ve got a fully functional Gatsby website. For additional information on how you can customize your Gatsby site, see our [plugins](https://gatsbyjs.com/plugins/) and [the official tutorial](https://www.gatsbyjs.com/tutorial/).
