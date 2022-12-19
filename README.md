@@ -33,9 +33,8 @@
  
 # Índice 
 
-* [Scraper de Pokémon](#scraper-de-pokémon)
+* [Scraper de Pokémon + Badge](#scraper-de-pokémon)
 * [Sobre o Projeto](#sobre-o-projeto)
-* [Node.JS](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
