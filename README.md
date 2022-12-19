@@ -6,14 +6,9 @@
 * [Scraper de Pokémon](#scraper-de-pokémon)
 * [Índice](#índice)
 * [Sobre o Projeto](#sobre-o-projeto)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
+* [Pré-Requisitos](#pré-requisitos)
+* [Rodando o Servidor](#rodando-o-servidor)
+* [📝 Licença](#licença)
 * [Conclusão](#conclusão)
 
 <h2>Sobre o Projeto</h2>
