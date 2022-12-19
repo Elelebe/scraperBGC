@@ -87,7 +87,11 @@ por exemplo:
 const pokemon = 'Pikachu'
 ```
 
-7. **Apertar F5 e selecionar a opção 'NodeJS'
+7. **Apertar F5 e selecionar a opção 'NodeJS'**
+
+# Autores
+
+| [<img src='https://avatars.githubusercontent.com/u/54039202?v=4'><br><sub>Leonardo Lopes Braga</sub>](https://github.com/Elelebe)|
 
 ## 📝 Licença
 
