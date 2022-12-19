@@ -6,7 +6,7 @@
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
 </a>
 
-<img src = ''>
+//<img src = ''>
 
 <h2>Sobre o Projeto</h2>
  
