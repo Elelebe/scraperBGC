@@ -68,9 +68,9 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
  git clone https://github.com/Elelebe/scraperBGC.git
  ```
  
- 3. **Extraia o arquivo**
+ 3. **Extrair o arquivo**
 
- 4. **Instale as dependências**
+ 4. **Instalar as dependências**
 
 ```shell
 npm install puppeteer
