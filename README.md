@@ -47,7 +47,6 @@
 
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
-</a>
  
  e opcionalmente o 
  
