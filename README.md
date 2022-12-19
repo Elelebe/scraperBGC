@@ -73,15 +73,6 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
    git clone https://github.com/Elelebe/scraperBGC
    ```
 
-2. **Start the site in `develop` mode.**
-
-   Next, move into your new site’s directory and start it up:
-
-   ```shell
-   cd my-gatsby-site/
-   npm run develop
-   ```
-
 3. **Open the source code and start editing!**
 
    Your site is now running at `http://localhost:8000`. Open the `my-gatsby-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes, and the browser will update in real time!
