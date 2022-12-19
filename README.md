@@ -32,8 +32,11 @@
  </ul>
  
 # Índice 
-
+<ul>
+<li>
 <a href = '#scraper-de-pokémon'>Scraper de Pokémon + Badge</a>
+<li>
+<ul>
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
