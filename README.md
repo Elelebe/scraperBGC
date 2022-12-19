@@ -1,5 +1,5 @@
 <h1 align="center">Scraper de Pokemón</h1>
 
-<img src = 'https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/03/pokemon-png-logo.png?fit=2000%2C736&ssl=1'>
+<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzHYiKkYOEdwlVSqLqp2gqdD8SNsMzw3Ybg&usqp=CAU'>
 
 <h2>Estrutura do Projeto<h2>
