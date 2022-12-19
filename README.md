@@ -65,11 +65,12 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
 
   ```shell
   git init elelebe
-
+  ```
+  
 2. **Clonar este repositório**
 
    ```shell
-   git clone https://github.com/Elelebe/scraperBGC/blob/main/index.js
+   git clone https://github.com/Elelebe/scraperBGC
    ```
 
 2. **Start the site in `develop` mode.**
