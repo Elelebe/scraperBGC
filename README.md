@@ -75,7 +75,7 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
 ```shell
 npm install puppeteer
 ```
-5. **Abrir o 'index' (botão direito) com VSCode.
+5. **Abrir o 'index' (botão direito) com VSCode.**
 
 ## 📝 Licença
 
