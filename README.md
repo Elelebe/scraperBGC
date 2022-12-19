@@ -47,7 +47,7 @@
 
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
- e opcionalmente o VSCode.
+ e opcionalmente o 
  <a href = 'https://code.visualstudio.com'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
  </a>
