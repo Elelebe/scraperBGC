@@ -12,11 +12,19 @@
 <h2>Sobre o Projeto</h2>
  
 <p>O Scraper de Pokémon foi criado com o intuito de pesquisar informações de forma concisa e direta.</p>
-<p>É possível utilizar do arquivo da seguinte forma:<p>
+<p>Ao inserir o nome do Pokémon...</p>
+
+<ul>
+ <li>
+  <input type = "text">Nome do Pokémon</input>
+ </li>
+</ul>
+            
+<p>O arquivo traz as seguintes informações:<p>
  
  <ul>
   <li>
-   <h4>a</h4>
+   <p>a</p>
   </li>
  </ul>
  
