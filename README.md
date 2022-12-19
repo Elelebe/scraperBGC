@@ -9,6 +9,6 @@
 
 <img src = ''>
 
-<h2>Sobre o Projeto<h2>
+<h2>Sobre o Projeto</h2>
  
 <p>O Scraper de Pokémon foi criado com o intuito de pesquisar informações de forma concisa e direta.</p>
