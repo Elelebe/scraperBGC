@@ -43,7 +43,7 @@
  
  <h2>Pré-Requisitos</h2>
 
-<h4>Antes de começar, você precisará instalar o 
+<p>Antes de começar, você precisará instalar o 
 
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
@@ -51,6 +51,6 @@
  e opcionalmente o 
  <a href = 'https://code.visualstudio.com'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
- </a>.</h4>
+ </a>.<p>
  
  <h2>Rodando o servidor</h2>
