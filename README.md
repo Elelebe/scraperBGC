@@ -55,12 +55,12 @@
  
  <h2>Rodando o servidor</h2>
 
-You can get a new Gatsby site up and running on your local dev environment in 5 minutes with these four steps:
+Para instalar e passar a usar o projeto, você deve:
 
 1. **Initialize a new project.**
 
    ```shell
-   npm init gatsby
+   npm init elelebe
    ```
 
    Give it the name "My Gatsby Site".
