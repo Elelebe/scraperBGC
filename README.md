@@ -47,7 +47,7 @@
  <a href = 'https://git-scm.com'>
   <img src = 'https://img.shields.io/badge/Git-v2.39.0-orange'>
  </a>
- e opcionalmente o 
+ e o
  <a href = 'https://code.visualstudio.com'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
  </a>.<p>
@@ -68,14 +68,14 @@ Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
  git clone https://github.com/Elelebe/scraperBGC.git
  ```
  
- 3. **Extrair o arquivo**
+3. **Extrair o arquivo**
 
- 4. **Instalar as dependências**
+4. **Instalar as dependências**
 
 ```shell
 npm install puppeteer
 ```
-
+5. **Abrir o 'index' (botão direito) com VSCode.
 
 ## 📝 Licença
 
