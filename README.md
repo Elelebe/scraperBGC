@@ -7,4 +7,6 @@
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
 </a>
 
+<img src = 'https://www.tools4testing.com/contents/puppeteer/images/puppeteer-installation-9.png'>
+
 <h2>Estrutura do Projeto<h2>
