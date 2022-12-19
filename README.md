@@ -12,3 +12,10 @@
 <h2>Sobre o Projeto</h2>
  
 <p>O Scraper de Pokémon foi criado com o intuito de pesquisar informações de forma concisa e direta.</p>
+<p>É possível utilizar do arquivo da seguinte forma:<p>
+ 
+ <li>
+  <ul>
+   <h4>a
+  >/ul>
+ </li>
