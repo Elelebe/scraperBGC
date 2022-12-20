@@ -58,7 +58,7 @@ Por exemplo:
  
  <h2>⚠️ Pré-Requisitos</h2>
 
-<p>Antes de começar, você precisará instalar o 
+<p>Antes de começar, você precisará obrigatoriamente instalar o 
 
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
@@ -74,24 +74,23 @@ Por exemplo:
  
  <h2>⚙️ Rodando o servidor</h2>
 
-Para instalar e passar a usar o projeto, você deverá:
+Para instalar e passar a usar o projeto,
 
-1. **Clicar em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
-
- ```shell
- git clone https://github.com/Elelebe/scraperBGC.git
- ```
+1. **Clique em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
  
-2. **Extrair o arquivo;**
-
-3. **Instalar as dependências;**
+2. **Extraia o arquivo;**
 
 ```shell
-npm install puppeteer
+Para extraí-lo, aperte com o botão direito e selecione "Extrair Tudo..."
 ```
-4. **Após o download, abrir o 'index' (botão direito) com VSCode;**
 
-5. **Escrever o nome do Pokémon (na linha 10 do código) onde está escrito:**
+3. **Após extraí-lo, abra o arquivo 'index' com VSCode;**
+
+```shell
+Para abrí-lo com VSCode, aperte com o botão direito e selecione "Abrir com Code"
+```
+
+4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
 
 ```shell
 const pokemon = 'pokemon-name'
@@ -101,7 +100,10 @@ por exemplo:
 const pokemon = 'Pikachu'
 ```
 
-6. **Apertar F5 e selecionar a opção 'NodeJS'.**
+5. **Aperte F5 e selecione a opção 'NodeJS'.**
+```shell
+O 
+```
 <img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300'>
 <h3 align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</h3>
 <h3 align = "center">O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON (maiúsculo e minúsculo contam)</h3>
