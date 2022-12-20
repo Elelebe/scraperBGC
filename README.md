@@ -1,5 +1,5 @@
 <h1 align = "center">Scraper de Pokémon</h1>
-<img src = 'https://camo.githubusercontent.com/8991280e5ce5450685792587e03d6459fb8ae396a6ed3bf9c27c96d94baa59d6/68747470733a2f2f69302e77702e636f6d2f6d756c74617274652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031392f30332f706f6b656d6f6e2d706e672d6c6f676f2e706e673f6669743d323030302532433733362673736c3d31'>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png'>
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
 ## 📑 Índice
