@@ -7,7 +7,7 @@
 * [📑 Índice](#-índice)
 * [💻 Sobre o Projeto](#-sobre-o-projeto)
 * [⚠️ Pré-Requisitos](#-pré-requisitos)
-* [⚙️ Rodando o Servidor](#-rodando-o-servidor)
+* [⚙️ Rodando o Servidor](#%EF%B8%8F-rodando-o-servidor)
 * [🖊️ Autor](#%EF%B8%8F-autor)
 * [📝 Licença](#-licença)
 
