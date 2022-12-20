@@ -42,7 +42,7 @@
   </li>
  </ul>
  
- <img src = 'https://www.pngplay.com/wp-content/uploads/10/Charmander-Pokemon-PNG-Free-File-Download.png' width = 70% height = 70%>
+ <img src = 'https://www.pngplay.com/wp-content/uploads/10/Charmander-Pokemon-PNG-Free-File-Download.png' width = 40% height = 40%>
  
 Por exemplo:
 <ul>
