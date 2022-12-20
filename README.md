@@ -109,11 +109,10 @@ const pokemon = 'Pikachu'
 
 7. **Apertar F5 e selecionar a opção 'NodeJS'.**
 <br></br>
-***⚠️⚠️***
+***⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️***<br>
 ***O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON (maiúsculo e minúsculo contam), CASO O SITE TENHA OS DADOS CONTIDOS***
-***⚠️⚠️***
-***TAMBÉM É ESSENCIAL MANTER AS ASPAS ENTRE O NOME DO POKÉMON***
-***⚠️⚠️***
+***TAMBÉM É ESSENCIAL MANTER AS ASPAS ENTRE O NOME DO POKÉMON***<br>
+***⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️***
 
 <h2>🖊️ Autor</h2>
 
