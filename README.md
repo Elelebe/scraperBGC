@@ -112,6 +112,8 @@ const pokemon = 'Pikachu'
 ***⚠️⚠️***
 ***O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON (maiúsculo e minúsculo contam), CASO O SITE TENHA OS DADOS CONTIDOS***
 ***⚠️⚠️***
+***TAMBÉM É ESSENCIAL MANTER AS ASPAS ENTRE O NOME DO POKÉMON***
+***⚠️⚠️***
 
 <h2>🖊️ Autor</h2>
 
