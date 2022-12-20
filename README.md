@@ -102,7 +102,7 @@ const pokemon = 'Pikachu'
 
 5. **Aperte F5 e selecione a opção 'NodeJS'.**
 ```shell
-O 
+O resultado sairá na aba "Terminal"
 ```
 <img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300'>
 <h3 align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</h3>
