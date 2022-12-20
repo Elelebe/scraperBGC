@@ -6,7 +6,7 @@
 * [Scraper de Pokémon](#scraper-de-pokémon)
 * [📑 Índice](#-índice)
 * [💻 Sobre o Projeto](#-sobre-o-projeto)
-* [⚠️ Pré-Requisitos](#-pré-requisitos)
+* [⚠️ Pré-Requisitos](#%EF%B8%8F-pré-requisitos)
 * [⚙️ Rodando o Servidor](#%EF%B8%8F-rodando-o-servidor)
 * [🖊️ Autor](#%EF%B8%8F-autor)
 * [📝 Licença](#-licença)
