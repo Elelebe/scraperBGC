@@ -2,7 +2,7 @@
 <img src = 'https://i0.wp.com/multarte.com.br/wp-content/uploads/2019/03/pokemon-png-logo.png?fit=2000%2C736&ssl=1'>
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
-<h2>📑 Índice</h2> 
+## 📑 Índice
 * [Scraper de Pokémon](#-scraper-de-pokémon)
 * [Índice](#-índice)
 * [Sobre o Projeto](#-sobre-o-projeto)
