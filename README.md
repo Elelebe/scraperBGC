@@ -42,6 +42,8 @@
   </li>
  </ul>
  
+ <img src = 'https://e7.pngegg.com/pngimages/508/924/png-clipart-pokemon-go-charmander-pikachu-charizard-pokemon-go-tail-pokemon.png'>
+ 
 Por exemplo:
 <ul>
  <li>
