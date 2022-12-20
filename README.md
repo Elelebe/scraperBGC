@@ -97,7 +97,7 @@ npm install puppeteer
 ```
 5. **Abrir o 'index' (botão direito) com VSCode;**
 
-6. **Escrever o nome do Pokémon na linha onde está escrito:**
+6. **Escrever o nome do Pokémon (na linha 10 do código) onde está escrito:**
 
 ```shell
 const pokemon = 'pokemon-name'
