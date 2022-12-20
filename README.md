@@ -119,4 +119,4 @@ const pokemon = 'Pikachu'
 
 <h2>📝 Licença</h2>
 
-[MIT License](./LICENSE).
+Licenciado pelo [MIT License](./LICENSE).
