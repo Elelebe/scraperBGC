@@ -7,7 +7,7 @@ async function start(){
     
     
     //Digite aqui o nome do Pokémon:
-    const pokemon = 'pokemon-name'
+    const pokemon = 'Pikachu'
     
 
     await page.goto('https://pokemon.fandom.com/pt-br/wiki/Pokédex_Nacional')
@@ -31,8 +31,11 @@ async function start(){
         page.waitForNavigation(),
     ]) 
     
-    const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2) > table:nth-child(1) > tbody > tr > td', el => el.textContent)
-
+    /*O primeiro 'tipo' traz o resultado em uma linha, porém não funciona para alguns Pokemóns, como o Charizard que possui múltiplos tipos.
+    O segundo 'tipo' funciona com todos os tipos, porém deixa o console.log "feio".
+    Como foi pedido para retornar os seus tipos, o segundo 'tipo' será mantido.*/
+    //const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2) > table:nth-child(1) > tbody > tr > td', el => el.textContent)
+    const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
     const nome = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2)', el => el.textContent)
     const categoria = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(1)', el => el.textContent)
     const altura = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(1)', el => el.textContent)
