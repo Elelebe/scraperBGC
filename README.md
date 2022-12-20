@@ -22,7 +22,7 @@
  </li>
 </ul>
             
-<p>O arquivo traz as seguintes informações:<p>
+<h3>O arquivo traz as seguintes informações:<h3>
  
  <ul>
   <li>
