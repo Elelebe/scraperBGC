@@ -50,6 +50,8 @@
  </li>
 </ul>
 
+<p>O Pokémon 'Charmander' 🔥 sairá com as seguintes informações:</p>
+
 | Pokémon | Tipo(s) | Categoria | Altura | Peso | Distribuição de gênero |
 | --- | --- | --- | --- | --- | --- |
 | Charmander | Fogo | Pokémon Lagarto | 0,6 m | 8,5kg | 87,5% ♂ — 12,5% ♀ |
