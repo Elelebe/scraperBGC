@@ -13,7 +13,7 @@
 
 <h2>💻 Sobre o Projeto</h2>
  
-<p>O arquivo foi criado com o intuito de pesquisar informações sobre Pokémons de forma concisa e direta.</p>
+<p>O arquivo foi criado com o intuito de pesquisar informações sobre Pokémons de forma concisa e direta. 🎯</p>
 <p>Ao inserir o nome do Pokémon...</p>
 
 <ul>
@@ -50,24 +50,7 @@
  </li>
 </ul>
 
-<p>Informações sobre o Charmander:</p>
-<ul>
-  <li>
-   <p>Tipo(s): Fogo</p>
-  </li>
-  <li>
-   <p>Categoria: Pokémon Lagarto</p>
-  </li>
-  <li>
-   <p>Altura: 0,6 m</p>
-  </li>
-  <li>
-   <p>Peso: 8,5 kg</p>
-  </li>
-  <li>
-   <p>Distribuição de Gênero: 87,5% ♂ — 12,5% ♀</p>
-  </li>
- </ul>
+| Pokémon | Tipo(s) | Categoria | Altura | Peso | Distribuição de gênero |--------------|:---------------:|-------------:| | Charmander | Fogo | Pokémon Lagarto | 0,6 m | 8,5kg | 87,5% ♂ — 12,5% ♀ |
  
  <h2>⚠️ Pré-Requisitos</h2>
 
