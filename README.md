@@ -42,7 +42,7 @@
   </li>
  </ul>
  
- <img src = 'https://i.pinimg.com/474x/17/91/0e/17910e66808b8c602b812a7a21a673f1.jpg'>
+ <img src = 'https://i.pinimg.com/originals/32/cb/cf/32cbcff5bf5eb302cf93dfb590bb8e62.png'>
  
 Por exemplo:
 <ul>
