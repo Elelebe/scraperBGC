@@ -3,12 +3,12 @@
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
 ## 📑 Índice
-* [Scraper de Pokémon](#-scraper-de-pokémon)
-* [Índice](#-índice)
-* [Sobre o Projeto](#-sobre-o-projeto)
-* [Pré-Requisitos](#-pré-requisitos)
-* [Rodando o Servidor](#-rodando-o-servidor)
-* [Autor](#-autor)
+* [Scraper de Pokémon](#scraper-de-pokémon)
+* [📑 Índice](#-índice)
+* [💻 Sobre o Projeto](#-sobre-o-projeto)
+* [⚠️ Pré-Requisitos](#-pré-requisitos)
+* [⚙️ Rodando o Servidor](#-rodando-o-servidor)
+* [🖊️ Autor](#-autor)
 * [📝 Licença](#-licença)
 
 <h2>💻 Sobre o Projeto</h2>
