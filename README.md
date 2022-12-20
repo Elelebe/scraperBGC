@@ -3,7 +3,7 @@
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
 ## 📑 Índice
-* [Scraper de Pokémon](#scraper-de-pokémon)
+* [🔎 Scraper de Pokémon](#scraper-de-pokémon)
 * [📑 Índice](#-índice)
 * [💻 Sobre o Projeto](#-sobre-o-projeto)
 * [⚠️ Pré-Requisitos](#%EF%B8%8F-pré-requisitos)
