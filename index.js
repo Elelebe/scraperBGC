@@ -4,7 +4,11 @@ const fs = require('fs').promises;
 async function start(){
     const browser = await puppeteer.launch({headless: false})
     const page = await browser.newPage()
+    
+    
+    //Digite aqui o nome do Pokémon:
     const pokemon = 'pokemon-name'
+    
 
     await page.goto('https://pokemon.fandom.com/pt-br/wiki/Pokédex_Nacional')
 
