@@ -26,13 +26,45 @@
  
  <ul>
   <li>
-   <p>Tipo;</p>
+   <p>Tipo(s);</p>
+  </li>
+  <li>
+   <p>Categoria;</p>
   </li>
   <li>
    <p>Altura;</p>
   </li>
   <li>
    <p>Peso;</p>
+  </li>
+  <li>
+   <p>Distribuição de gênero.</p>
+  </li>
+ </ul>
+ 
+<p>Por exemplo:</p>
+
+<ul>
+ <li>
+  <input type = "text">'Charmander'</input>
+ </li>
+</ul>
+
+<ul>
+  <li>
+   <p>Tipo(s): Fogo</p>
+  </li>
+  <li>
+   <p>Categoria: Pokémon Lagarto</p>
+  </li>
+  <li>
+   <p>Altura: 0,6 m</p>
+  </li>
+  <li>
+   <p>Peso: 8,5 kg</p>
+  </li>
+  <li>
+   <p>Distribuição de Gênero: 87,5% ♂ — 12,5% ♀</p>
   </li>
  </ul>
  
