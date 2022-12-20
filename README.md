@@ -56,26 +56,26 @@
 
 Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
 
-1. **Inicializar o repositório**
+1. **Inicializar o repositório;**
 
   ```shell
   git init elelebe
   ```
   
-2. **Clonar este repositório** <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>ou baixá-lo</a> em caso de erro.
+2. **Clonar este repositório <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>ou baixá-lo</a> em caso de erro;**
 
  ```shell
  git clone https://github.com/Elelebe/scraperBGC.git
  ```
  
-3. **Extrair o arquivo em caso de *download***
+3. **Extrair o arquivo em caso de *download;***
 
-4. **Instalar as dependências**
+4. **Instalar as dependências;**
 
 ```shell
 npm install puppeteer
 ```
-5. **Abrir o 'index' (botão direito) com VSCode.**
+5. **Abrir o 'index' (botão direito) com VSCode;**
 
 6. **Escrever o nome do Pokémon na linha onde está escrito:**
 
@@ -87,7 +87,7 @@ por exemplo:
 const pokemon = 'Pikachu'
 ```
 
-7. **Apertar F5 e selecionar a opção 'NodeJS'**
+7. **Apertar F5 e selecionar a opção 'NodeJS'.**
 
 ***⚠️⚠️⚠️⚠️***
 ***O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON, CASO O SITE TENHA OS DADOS CONTIDOS***
