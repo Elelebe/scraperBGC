@@ -50,6 +50,7 @@
  </li>
 </ul>
 
+<p>Informações sobre o Charmander:</p>
 <ul>
   <li>
    <p>Tipo(s): Fogo</p>
