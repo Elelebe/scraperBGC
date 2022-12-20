@@ -89,6 +89,8 @@ const pokemon = 'Pikachu'
 
 7. **Apertar F5 e selecionar a opção 'NodeJS'**
 
+***O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON, CASO O SITE TENHA OS DADOS CONTIDOS***
+
 # Autor
 
 [<img src='https://avatars.githubusercontent.com/u/54039202?v=4' width = 300><br><sub>Leonardo Lopes Braga</sub>](https://github.com/Elelebe)
