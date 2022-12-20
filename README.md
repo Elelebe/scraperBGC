@@ -64,8 +64,8 @@ Por exemplo:
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
  </a>
  , o 
- <a href = 'https://git-scm.com'>
-  <img src = 'https://img.shields.io/badge/Git-v2.39.0-orange'>
+ <a href = 'https://www.win-rar.com/start.html?&L=9'>
+  <img src = 'https://img.shields.io/badge/Win-RAR-%238000FF'>
  </a>
  e o
  <a href = 'https://code.visualstudio.com'>
@@ -74,30 +74,24 @@ Por exemplo:
  
  <h2>⚙️ Rodando o servidor</h2>
 
-Para instalar e passar a usar o projeto, você deverá abrir o 'Git CMD' e:
+Para instalar e passar a usar o projeto, você deverá:
 
-1. **Inicializar o repositório;**
-
-  ```shell
-  git init elelebe
-  ```
-  
-2. **Clonar este repositório <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>ou baixá-lo</a> em caso de erro;**
+1. **Clicar em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
 
  ```shell
  git clone https://github.com/Elelebe/scraperBGC.git
  ```
  
-3. **Extrair o arquivo em caso de *download;***
+2. **Extrair o arquivo;**
 
-4. **Instalar as dependências;**
+3. **Instalar as dependências;**
 
 ```shell
 npm install puppeteer
 ```
-5. **Abrir o 'index' (botão direito) com VSCode;**
+4. **Após o download, abrir o 'index' (botão direito) com VSCode;**
 
-6. **Escrever o nome do Pokémon (na linha 10 do código) onde está escrito:**
+5. **Escrever o nome do Pokémon (na linha 10 do código) onde está escrito:**
 
 ```shell
 const pokemon = 'pokemon-name'
@@ -107,8 +101,8 @@ por exemplo:
 const pokemon = 'Pikachu'
 ```
 
-7. **Apertar F5 e selecionar a opção 'NodeJS'.**
-<br></br>
+6. **Apertar F5 e selecionar a opção 'NodeJS'.**
+<img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300'>
 <h3 align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</h3>
 <h3 align = "center">O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON (maiúsculo e minúsculo contam)</h3>
 <h3 align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</h3>
