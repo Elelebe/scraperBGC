@@ -42,8 +42,9 @@
   </li>
  </ul>
  
-<p>Por exemplo:</p>
 
+> Por exemplo:
+```shell
 <ul>
  <li>
   <input type = "text">'Charmander'</input>
