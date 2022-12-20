@@ -8,7 +8,7 @@
 * [💻 Sobre o Projeto](#-sobre-o-projeto)
 * [⚠️ Pré-Requisitos](#-pré-requisitos)
 * [⚙️ Rodando o Servidor](#-rodando-o-servidor)
-* [🖊️ Autor](#-autor)
+* [🖊️ Autor](#%EF%B8%8F-autor)
 * [📝 Licença](#-licença)
 
 <h2>💻 Sobre o Projeto</h2>
