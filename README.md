@@ -42,7 +42,7 @@
   </li>
  </ul>
  
- <img src = 'https://www.pngitem.com/pimgs/m/117-1172411_charmander-char-char-charmander-pokemon-pokemongo-free-charmander.png'>
+ <img src = 'https://www.pngitem.com/pimgs/m/117-1172411_charmander-char-char-charmander-pokemon-pokemongo-free-charmander.png' width = 20% height = 20%>
  
 Por exemplo:
 <ul>
