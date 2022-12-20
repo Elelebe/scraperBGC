@@ -8,8 +8,8 @@
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Pré-Requisitos](#pré-requisitos)
 * [Rodando o Servidor](#rodando-o-servidor)
+* [Autor](#autor)
 * [📝 Licença](#-licença)
-* [Conclusão](#conclusão)
 
 <h2>Sobre o Projeto</h2>
  
