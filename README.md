@@ -117,6 +117,7 @@ O resultado sairá na aba "Terminal"
 ```
 
 <img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 50% height = 35%>
+<img src = 'https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png' width = 50% height = 35%>
 
 <h2>🖊️ Autor</h2>
 
