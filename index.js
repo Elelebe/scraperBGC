@@ -39,7 +39,7 @@ async function start(){
     //const habilidades = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(7) > td > table:nth-child(1) > tbody > tr', el=> el.textContent)
     const genero = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(9) > td', el => el.textContent)
 
-    console.log("\nPokemón citado (e em japonês) e tipo(s): "+nometipo)
+    console.log("\n"+nometipo)
     console.log("\nCategoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
 
     await browser.close()
