@@ -87,13 +87,13 @@ Para instalar e passar a usar o projeto,
 2. **Extraia o arquivo;**
 
 ```shell
-Para extraí-lo, aperte com o botão direito e selecione "Extrair Tudo..."
+Para extraí-lo, aperte-o com o botão direito e selecione "Extrair Tudo..."
 ```
 
 3. **Abra o arquivo 'index' com VSCode;**
 
 ```shell
-Para abrí-lo com VSCode, aperte com o botão direito e selecione "Abrir com Code"
+Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com Code"
 ```
 
 4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
@@ -115,7 +115,7 @@ OBS²: é essencial manter o nome do Pokémon entre aspas.
 ```shell
 O resultado sairá na aba "Terminal"
 ```
-<img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300'>
+<img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300' width = 125%>
 
 <h2>🖊️ Autor</h2>
 
