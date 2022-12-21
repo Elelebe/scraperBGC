@@ -84,7 +84,7 @@ Para instalar e passar a usar o projeto,
 Para extraí-lo, aperte com o botão direito e selecione "Extrair Tudo..."
 ```
 
-3. **Após extraí-lo, abra o arquivo 'index' com VSCode;**
+3. **Abra o arquivo 'index' com VSCode;**
 
 ```shell
 Para abrí-lo com VSCode, aperte com o botão direito e selecione "Abrir com Code"
