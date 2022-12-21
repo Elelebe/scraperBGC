@@ -41,7 +41,7 @@ async function start(){
     const genero = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(9) > td', el => el.textContent)
 
     console.log("\n"+nometipo)
-    console.log("\nCategoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
+    console.log("Categoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
 
     await browser.close()
 }
