@@ -116,6 +116,8 @@ OBS²: é essencial manter o nome do Pokémon entre aspas.
 O resultado sairá na aba "Terminal"
 ```
 
+<img src = 'https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png'>
+
 <h2>🖊️ Autor</h2>
 
 [<img src='https://avatars.githubusercontent.com/u/54039202?v=4' width = 300><br><sub>Leonardo Lopes Braga</sub>](https://github.com/Elelebe)
