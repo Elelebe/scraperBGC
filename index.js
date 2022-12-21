@@ -31,12 +31,7 @@ async function start(){
         page.waitForNavigation(),
     ]) 
     
-    /*O primeiro 'tipo' traz o resultado em uma linha, porém não funciona para alguns Pokemóns, como o Charizard que possui múltiplos tipos.
-    O segundo 'tipo' funciona com todos os tipos, porém deixa o console.log "feio".
-    Como foi pedido para retornar os seus tipos, o segundo 'tipo' será mantido.*/
-    
-    //const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2) > table:nth-child(1) > tbody > tr > td', el => el.textContent)
-    const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
+    const nometipo = await page.$eval('#mw-content-text > div > p:nth-child(3)', el => el.textContent)
     const nome = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2)', el => el.textContent)
     const categoria = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(1)', el => el.textContent)
     const altura = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(1)', el => el.textContent)
@@ -44,8 +39,8 @@ async function start(){
     //const habilidades = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(7) > td > table:nth-child(1) > tbody > tr', el=> el.textContent)
     const genero = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(9) > td', el => el.textContent)
 
-    console.log("\nPokemón citado (e em japonês): "+nome)
-    console.log("Tipo(s):"+tipo+"\nCategoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
+    console.log("\nPokemón citado (e em japonês) e tipo(s): "+nometipo)
+    console.log("\nCategoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
 
     await browser.close()
 }
