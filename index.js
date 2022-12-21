@@ -7,7 +7,7 @@ async function start(){
     
     
     //Digite aqui o nome do Pokémon:
-    const pokemon = 'Pikachu'
+    const pokemon = 'pokemon-name'
     
 
     await page.goto('https://pokemon.fandom.com/pt-br/wiki/Pokédex_Nacional')
