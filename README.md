@@ -100,10 +100,13 @@ Para abrí-lo com VSCode, aperte com o botão direito e selecione "Abrir com Cod
 
 ```shell
 const pokemon = 'pokemon-name'
+OBS¹: o programa rodará apenas com o nome correto do Pokémon.
+Letras maiúsculas e minúsculas também podem influenciar.
 ```
 por exemplo:
 ```shell
 const pokemon = 'Pikachu'
+OBS²: é essencial manter o nome do Pokémon entre aspas.
 ```
 
 5. **Aperte F5 e selecione a opção 'NodeJS'.**
@@ -111,11 +114,6 @@ const pokemon = 'Pikachu'
 O resultado sairá na aba "Terminal"
 ```
 <img src = 'https://cdn.dribbble.com/users/668979/screenshots/6137086/back_to_work_4x.png?compress=1&resize=400x300'>
-<p align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</p>
-<p align = "center">O PROGRAMA RODARÁ APENAS COM O NOME CORRETO DO POKÉMON (maiúsculo e minúsculo contam)</p>
-<p align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</p>
-<p align = "center">TAMBÉM É ESSENCIAL MANTER AS ASPAS ENTRE O NOME DO POKÉMON</h3>
-<p align = "center">⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️</p>
 
 <h2>🖊️ Autor</h2>
 
