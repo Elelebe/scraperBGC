@@ -116,7 +116,7 @@ OBS²: é essencial manter o nome do Pokémon entre aspas.
 O resultado sairá na aba "Terminal"
 ```
 
-<img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 50%>
+<img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 50% height = 35%>
 
 <h2>🖊️ Autor</h2>
 
