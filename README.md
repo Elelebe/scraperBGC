@@ -116,7 +116,7 @@ OBS²: é essencial manter o nome do Pokémon entre aspas.
 O resultado sairá na aba "Terminal"
 ```
 
-<img src = 'https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png'>
+<img src = 'https://i.pinimg.com/originals/9a/68/71/9a68716efc331fcc84e3a4ce5f23d18d.png' width = 50%>
 
 <h2>🖊️ Autor</h2>
 
