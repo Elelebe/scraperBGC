@@ -13,7 +13,7 @@
 
 <h2>💻 Sobre o Projeto</h2>
  
-<p>O arquivo foi criado com o intuito de pesquisar informações sobre Pokémons de forma concisa e direta. 🎯</p>
+> O arquivo foi criado com o intuito de pesquisar informações sobre Pokémons de forma concisa e direta. 🎯
 <p>Ao inserir o nome do Pokémon...</p>
 
 <ul>
