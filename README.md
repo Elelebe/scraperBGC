@@ -101,8 +101,8 @@ Para abrí-lo com VSCode, aperte com o botão direito e selecione "Abrir com Cod
 ```shell
 const pokemon = 'pokemon-name'
 
-OBS¹: o programa rodará apenas com o nome correto do Pokémon.
-Letras maiúsculas e minúsculas também podem influenciar.
+OBS¹: *o programa rodará apenas com o nome correto do Pokémon.
+Letras maiúsculas e minúsculas também podem influenciar.*
 ```
 por exemplo:
 ```shell
