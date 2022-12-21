@@ -71,7 +71,7 @@ Por exemplo:
  </a>
  , o 
  <a href = 'https://www.win-rar.com/start.html?&L=9'>
-  <img src = 'https://img.shields.io/badge/Win-RAR-%238000FF'>
+  <img src = 'https://img.shields.io/badge/Win-RAR-AF00FF'>
  </a>
  e o
  <a href = 'https://code.visualstudio.com'>
