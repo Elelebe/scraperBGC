@@ -118,8 +118,8 @@ O resultado sairá na aba "Debug Console"
 
 <img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 40% height = 15%>
 
-<p align = 'center'>Site sujeito a erros por causa de dados incompletos!</p>
-<p align = 'center'>Talvez o seu Pokémon não saia com os dados conforme o esperado.<p>
+>Site sujeito a erros por causa de dados incompletos!
+>Talvez o seu Pokémon não saia com os dados conforme o esperado.
 
 <h2>🖊️ Autor</h2>
 
