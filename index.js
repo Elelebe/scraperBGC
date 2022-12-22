@@ -34,10 +34,10 @@ async function start(){
     /*OBS¹: A exemplo do Charizard, alguns Pokémons evoluídos não foram reconhecidos nos dados da tabela por conta de megaevoluções.
     Por isso, preferi mostrar o primeiro parágrafo de informações para revelar o(s) seu(s) tipo(s) de forma mais organizada.
     OBS²: A exemplo da Magikarp, o tipo aparece na tabela mas a página não possui o primeiro parágrafo.
-    A exemplo também do Poliwrath, seria necessário mudar um número do 'nth-child' para o programa rodar.
-    Porém eu não conseguiria fazer todas essas exceções em uma semana...*/
+    A exemplo também do Poliwrath, é necessário mudar um número do 'p:nth-child' para o programa rodar.
+    Mas já insisti tanto nesse Pokémon que nem vale a pena mudar o código só por causa dele...*/
 
-    //const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2) > table:nth-child(1) > tbody > tr > td', el => el.textContent)
+    const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
     const nometipo = await page.$eval('#mw-content-text > div > p:nth-child(3)', el => el.textContent)
 
     const categoria = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(1)', el => el.textContent)
