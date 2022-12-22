@@ -9,7 +9,7 @@ async function start(){
     //Digite aqui o nome do Pokémon:
     const pokemon = 'pokemon-name';
     
-
+    const Pokemon = pokemon[0].toUpperCase() + pokemon.slice(1).toLowerCase();
     await page.goto('https://pokemon.fandom.com/pt-br/wiki/Pokédex_Nacional')
 
     await page.waitForSelector(".global-navigation__search.global-navigation__icon")
@@ -17,12 +17,10 @@ async function start(){
     await page.evaluate(search => search.click(), search)
 
     await page.waitForSelector(".SearchInput-module_input__LhjJF")
-    await page.type(".SearchInput-module_input__LhjJF",pokemon, {delay: 0})
-    //await page.waitForTimeout(1000);
+    await page.type(".SearchInput-module_input__LhjJF",Pokemon, {delay: 0})
     await page.keyboard.press('Enter')
 
     await page.waitForSelector(".mw-search-exists a")
-    //await page.waitForTimeout(1000);
 
     const search2 = await page.$(".mw-search-exists a")
 
@@ -31,22 +29,23 @@ async function start(){
         page.waitForNavigation(),
     ])
 
-    /*OBS¹: A exemplo do Charizard, alguns Pokémons evoluídos não foram reconhecidos nos dados da tabela por conta de megaevoluções.
-    Por isso, preferi mostrar o primeiro parágrafo de informações para revelar o(s) seu(s) tipo(s) de forma mais organizada.
-    OBS²: A exemplo da Magikarp, o tipo aparece na tabela mas a página não possui o primeiro parágrafo.
-    A exemplo também do Poliwrath, é necessário mudar um número do 'p:nth-child' para o programa rodar.
-    Mas já insisti tanto nesse Pokémon que nem vale a pena mudar o código só por causa dele...*/
+    const tipotudo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
+    const tipo = tipotudo.trim()
 
-    const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
     const nometipo = await page.$eval('#mw-content-text > div > p:nth-child(3)', el => el.textContent)
+    //OBS: A exemplo do Poliwrath e do Golduck, é necessário mudar um número do 'nth-child' para o programa rodar.
 
     const categoria = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(1)', el => el.textContent)
     const altura = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(1)', el => el.textContent)
     const peso = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(2)', el => el.textContent)
     const genero = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(9) > td', el => el.textContent)
 
-    console.log("Tipo:"+tipo)
     console.log("\n"+nometipo)
+    console.log("Pokémon citado: "+Pokemon)
+    console.log("Tipo(s): "+tipo)
+    /*Decidi alertar ambos os tipos porque tem Pokémons que não têm o tipo na tabela e outros que não têm no parágrafo...
+    Se o site fosse mais completo e organizado, acho que eu não teria tanta dor de cabeça assim.*/
+
     console.log("Categoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
 
     await browser.close()
