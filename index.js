@@ -29,17 +29,23 @@ async function start(){
     await Promise.all([
         page.evaluate(search2 => search2.click(), search2),
         page.waitForNavigation(),
-    ]) 
-    
-    /*A exemplo do Charizard, alguns Pokémons evoluídos não foram reconhecidos nos dados da tabela por conta de megaevoluções.
-    Por isso, preferi mostrar o primeiro parágrafo de informações para revelar o(s) seu(s) tipo(s).*/
+    ])
+
+    /*OBS¹: A exemplo do Charizard, alguns Pokémons evoluídos não foram reconhecidos nos dados da tabela por conta de megaevoluções.
+    Por isso, preferi mostrar o primeiro parágrafo de informações para revelar o(s) seu(s) tipo(s) de forma mais organizada.
+    OBS²: A exemplo da Magikarp, o tipo aparece na tabela mas a página não possui o primeiro parágrafo.
+    A exemplo também do Poliwrath, seria necessário mudar um número do 'nth-child' para o programa rodar.
+    Porém eu não conseguiria fazer todas essas exceções em uma semana...*/
+
+    //const tipo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2) > table:nth-child(1) > tbody > tr > td', el => el.textContent)
     const nometipo = await page.$eval('#mw-content-text > div > p:nth-child(3)', el => el.textContent)
-    const nome = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(1) > td > table > tbody > tr > td:nth-child(2)', el => el.textContent)
+
     const categoria = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(1)', el => el.textContent)
     const altura = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(1)', el => el.textContent)
     const peso = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(5) > td:nth-child(2)', el => el.textContent)
     const genero = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(9) > td', el => el.textContent)
 
+    console.log("Tipo:"+tipo)
     console.log("\n"+nometipo)
     console.log("Categoria: "+categoria+"Altura: "+altura+"Peso: "+peso+"Distribuição de Gênero: "+genero)
 
