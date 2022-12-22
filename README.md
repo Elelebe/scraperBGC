@@ -118,6 +118,9 @@ O resultado sairá na aba "Debug Console"
 
 <img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 40% height = 15%>
 
+<p>Site sujeito a erros!</p>
+<p>Talvez o seu Pokémon não saia com os dados conforme o esperado.<p>
+
 <h2>🖊️ Autor</h2>
 
 [<img src='https://avatars.githubusercontent.com/u/54039202?v=4' width = 300><br><sub>Leonardo Lopes Braga</sub>](https://github.com/Elelebe)
