@@ -82,21 +82,21 @@ Por exemplo:
 
 Para instalar e passar a usar o projeto,
 
-1. **Clique em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
+1. <h2>Clique em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;</h2>
 2. <br>
-3. **Extraia a pasta compactada;**
+3. <h2>Extraia a pasta compactada;</h2>
 
 ```shell
 Para extraí-la, aperte-a com o botão direito e selecione "Extrair Tudo..."
 ```
 <br>
-3. **Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;**
+3. <h2>Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;</h2>
 
 ```shell
 Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com Code"
 ```
 <br>
-4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
+4. <h2>Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:</h2>
 
 ```shell
 const pokemon = 'pokemon-name'
@@ -108,7 +108,7 @@ const pokemon = 'Squirtle'
 OBS: é essencial manter o nome do Pokémon entre aspas.
 ```
 <br>
-5. **Aperte a opção 'Run and Debug' (F5 ou Ctrl+Shift+D) e selecione a opção 'NodeJS'.**
+5. <h2>Aperte a opção 'Run and Debug' (F5 ou Ctrl+Shift+D) e selecione a opção 'NodeJS'.</h2>
 
 <img src = 'https://lh3.googleusercontent.com/uTzCRbZdTnkv7rJxFFjVJALUCX1rAqGiRXdmeLl76UP818V3qmteMZeciaR1EJekPH4jCvTYYv__tQ84igWyqNTTRkrdQIhvDtmQuTOkDXcTvCCmYISM2fuBK9ZTQ_0kuf69T6iIjH1Aw7e7CBKJpV60GI9u89_AcDqm18bwNlVTLPDOujMNt-gpzTZBdD4gr87QEdPuzBaeI_35Q6LO_jqkUfa7yoewVNqml_DC55rwiCE0Jysv69mqD1MZN9ikXgXbTSZYbwDDJ_EPEPRwfxMq59v-V7z7iBeHsf1_WdGppB3-0AHzZNvkDJe53rRjHwVBlvk7eXa4STWfStVVCz2e_tyqDANKtLkgFFzN3pj1TSBFAzbSY0zzAgIZS1a9R5xNAYH7lBV0wK0r6f4VX-nAxonf3ABTsM7vbH1qNUPf_v19PLcLN8wfRi4BGhKcKqPBF_GbsmmhoFMhuqKs0LDNpBgtIm3om3mrVsEfwNPABU3ac7_0V86eP7eod92QHHCLtOJRq_7lXi4FUEAp2NCASdhtDF0vVcSgKSu5sppQezLQlJGrfaSrsnFswlbBrQ6OFxoVzpadArKPzX4_LD0H5QWOMEaEJDVYJSb1J2ggJxt6jK9-mmDmgYejZJdOT9dx22SQyw_OzDBUYfR6OKsPO_mAxMZqJrqj-9FlokxFUPSmXVxcRIhZT3YZnyOYfGgg3x70De7hyZ0kYz0AbpokF4boITPzhFsWyxQOBmEftDlPOoYr1oG6b-kNXF3mxhIJSYPxgKapyLu_ku_6bs_fZD1Bm_QEgPw7-J60tDEblPg-rmY11zY-Kpymq_ESnlUyuucxD1c4-UIs_HUWLYaMJ5yEbFObbjKpPu0e2Ul7vtQyEKQd0Po7wuROIPHDcPomaiioS_SUgzTQrzqSc1vodRFXCJGasP_9pKXAvZwdJg=w755-h156-no?authuser=0'>
 
