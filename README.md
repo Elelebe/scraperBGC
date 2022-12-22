@@ -100,14 +100,12 @@ Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com C
 
 ```shell
 const pokemon = 'pokemon-name'
-
-OBS¹: o programa rodará apenas com o nome correto do Pokémon.
 ```
 por exemplo:
 ```shell
 const pokemon = 'Pikachu'
 
-OBS²: é essencial manter o nome do Pokémon entre aspas.
+OBS¹: é essencial manter o nome do Pokémon entre aspas.
 ```
 
 5. **Aperte a opção 'Run and Debug' (F5 ou Ctrl+Shift+D) e selecione a opção 'NodeJS'.**
