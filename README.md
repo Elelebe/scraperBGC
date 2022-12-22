@@ -111,7 +111,7 @@ const pokemon = 'Pikachu'
 OBS²: é essencial manter o nome do Pokémon entre aspas.
 ```
 
-5. **Aperte F5 e selecione a opção 'NodeJS'.**
+5. **Aperte a opção 'Run and Debug' (F5 ou Ctrl+Shift+D) e selecione a opção 'NodeJS'.**
 ```shell
 O resultado sairá na aba "Terminal"
 ```
