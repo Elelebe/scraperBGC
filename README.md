@@ -84,13 +84,13 @@ Para instalar e passar a usar o projeto,
 
 1. **Clique em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
  
-2. **Extraia o arquivo;**
+2. **Extraia a pasta compactada;**
 
 ```shell
-Para extraí-lo, aperte-o com o botão direito e selecione "Extrair Tudo..."
+Para extraí-la, aperte-a com o botão direito e selecione "Extrair Tudo..."
 ```
 
-3. **Abra o arquivo 'index' com VSCode;**
+3. **Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;**
 
 ```shell
 Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com Code"
