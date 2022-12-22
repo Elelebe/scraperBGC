@@ -102,7 +102,6 @@ Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com C
 const pokemon = 'pokemon-name'
 
 OBS¹: o programa rodará apenas com o nome correto do Pokémon.
-Letras maiúsculas e minúsculas também podem influenciar.
 ```
 por exemplo:
 ```shell
