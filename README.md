@@ -113,7 +113,7 @@ OBS²: é essencial manter o nome do Pokémon entre aspas.
 
 5. **Aperte a opção 'Run and Debug' (F5 ou Ctrl+Shift+D) e selecione a opção 'NodeJS'.**
 ```shell
-O resultado sairá na aba "Terminal"
+O resultado sairá na aba "Debug Console"
 ```
 
 <img src = 'https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1998567/coding-svg-clipart-md.png' width = 40% height = 15%>
