@@ -102,7 +102,7 @@ Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com C
 const pokemon = 'pokemon-name'
 ```
 
-**por exemplo:**
+   **por exemplo:**
 ```shell
 const pokemon = 'Squirtle'
 
