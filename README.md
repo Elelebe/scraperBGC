@@ -1,9 +1,9 @@
-<h1 align = "center">Scraper de Pokémon</h1>
+<h1 align = "center">🔎 Buscando Pokémons</h1>
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/640px-International_Pok%C3%A9mon_logo.svg.png' width = 120%>
 <p align = "center">Uma busca simples e prática para informações sobre Pokémons.</p>
 
 ## 📑 Índice
-* [🔎 Scraper de Pokémon](#scraper-de-pokémon)
+* [🔎 Buscando Pokémons](#buscando-pokémons)
 * [📑 Índice](#-índice)
 * [💻 Sobre o Projeto](#-sobre-o-projeto)
 * [⚠️ Pré-Requisitos](#%EF%B8%8F-pré-requisitos)
@@ -58,7 +58,7 @@ Por exemplo:
 </ul>
 <p>O Pokémon 'Charmander' 🔥 sairá com as seguintes informações:</p>
 
-| Pokémon (Japonês) | Tipo(s) | Geração | Categoria | Altura | Peso | Distribuição de gênero |
+| Nome do Pokémon (Japonês) | Tipo(s) | Geração | Categoria | Altura | Peso | Distribuição de gênero |
 | --- | --- | --- | --- | --- | --- | --- |
 | Charmander (ヒトカゲ Hitokage) | Fogo | Primeira Geração | Pokémon Lagarto | 0,6 m | 8,5kg | 87,5% ♂ — 12,5% ♀ |
  
