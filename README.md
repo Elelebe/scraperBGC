@@ -70,7 +70,7 @@ Por exemplo:
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
  </a>
  e o
- <a href = 'https://code.visualstudio.com'>
+ <a href = 'https://code.visualstudio.com/Download'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
  </a>.<p>
  
