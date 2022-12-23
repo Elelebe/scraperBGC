@@ -106,7 +106,7 @@ Para extraí-la, aperte-a com o botão direito e selecione "Extrair aqui/Extrair
 
 ```shell
 Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com > Visual Studio Code"
-Feche também a aba de 'Get Started' (após instlar o VSCode)
+Feche também a aba de 'Get Started' (caso você tenha acabado de instalar o VSCode)
 ```
 
 4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
