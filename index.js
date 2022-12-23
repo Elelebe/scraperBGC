@@ -31,6 +31,7 @@ async function start(){
 
     const tipotudo = await page.$eval('#mw-content-text > div > table:nth-child(2) > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td:nth-child(2)', el => el.textContent)
     const tipo = tipotudo.trim()
+    //Decidi usar o .trim() porque precisei aumentar a tabela, gerando espaços vazios.
 
     const nometipo = await page.$eval('#mw-content-text > div > p:nth-child(3)', el => el.textContent)
     //OBS: A exemplo do Poliwrath e do Golduck, é necessário mudar um número do 'nth-child' para o programa rodar.
