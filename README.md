@@ -99,7 +99,7 @@ Pronto! Para instalar e passar a usar o projeto,
 2. **Extraia a pasta compactada;**
 
 ```shell
-Para extraí-la, aperte-a com o botão direito e selecione "Extrair aqui/Extrair tudo"
+Para extraí-la, aperte-a com o botão direito e selecione "Extrair aqui (C/ WINRAR)" ou "Extrair tudo (S/ WINRAR)"
 ```
 
 3. **Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;**
