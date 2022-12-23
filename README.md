@@ -69,6 +69,9 @@ Por exemplo:
 <a href = 'https://nodejs.org/en/download/'>
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
  </a>
+ , o 
+ <a href = 'https://www.win-rar.com/predownload.html?&L=9'>
+  <img src = 'https://img.shields.io/badge/Win-RAR-800080'>
  e o
  <a href = 'https://code.visualstudio.com/Download'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
@@ -83,13 +86,14 @@ Para instalar e passar a usar o projeto,
 2. **Extraia a pasta compactada;**
 
 ```shell
-Para extraí-la, aperte-a com o botão direito e selecione "Extrair Tudo..."
+Para extraí-la, aperte-a com o botão direito e selecione "Extrair aqui/Extrair tudo"
 ```
 
 3. **Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;**
 
 ```shell
 Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com > Visual Studio Code"
+Feche também a aba de 'Get Started' (após instlar o VSCode)
 ```
 
 4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
