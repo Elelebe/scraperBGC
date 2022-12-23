@@ -72,7 +72,7 @@ Por exemplo:
  , o 
   <a href = 'https://code.visualstudio.com/Download'>
   <img src = 'https://img.shields.io/badge/VS-Code-blue'>
- </a
+ </a>
    e opcionalmente o 
  <a href = 'https://www.win-rar.com/predownload.html?&L=9'>
   <img src = 'https://img.shields.io/badge/Win-RAR-800080'>
