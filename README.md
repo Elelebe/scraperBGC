@@ -56,13 +56,11 @@ Por exemplo:
   <input type = "text">'Charmander'</input>
  </li>
 </ul>
-<p>O Pokémon 'Charmander' 🔥 sairá com as seguintes informações:</p>
+<p>O Pokémon 'Charmander' 🔥 sairá com as seguintes informações conforme o <a href = https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex_Nacional>site</a>:</p>
 
 | Nome do Pokémon (Japonês) | Tipo(s) | Geração | Categoria | Altura | Peso | Distribuição de gênero |
 | --- | --- | --- | --- | --- | --- | --- |
 | Charmander (ヒトカゲ Hitokage) | Fogo | Primeira Geração | Pokémon Lagarto | 0,6 m | 8,5kg | 87,5% ♂ — 12,5% ♀ |
-
-<p>conforme o <a href = https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex_Nacional>site</a></p>
  
  <h2>⚠️ Pré-Requisitos</h2>
 
