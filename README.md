@@ -128,7 +128,7 @@ OBS: é essencial manter o nome do Pokémon entre aspas.
 
 6. **Selecione a opção 'NodeJS'**
 
-<img src = 'https://pbs.twimg.com/media/FkqZtZ2XwAEh2ak?format=png&name=900x900'>
+<img src = 'https://pbs.twimg.com/media/FkqarpZX0AA9Yr7?format=png&name=900x900'>
 
 >Site sujeito a erros por causa de dados incompletos!<br>
 >Talvez o seu Pokémon não saia com os dados conforme o esperado.
