@@ -70,12 +70,13 @@ Por exemplo:
  <img src = 'https://img.shields.io/badge/node-js-brightgreen'>
  </a>
  , o 
+  <a href = 'https://code.visualstudio.com/Download'>
+  <img src = 'https://img.shields.io/badge/VS-Code-blue'>
+ </a
+   e opcionalmente o 
  <a href = 'https://www.win-rar.com/predownload.html?&L=9'>
   <img src = 'https://img.shields.io/badge/Win-RAR-800080'>
- e o
- <a href = 'https://code.visualstudio.com/Download'>
-  <img src = 'https://img.shields.io/badge/VS-Code-blue'>
- </a>.<p>
+.<p>
  
  <h2>⚙️ Rodando o servidor</h2>
 
