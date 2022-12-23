@@ -89,7 +89,7 @@ Para extraí-la, aperte-a com o botão direito e selecione "Extrair Tudo..."
 3. **Abra a nova pasta e, após isso, o arquivo 'index' com VSCode;**
 
 ```shell
-Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com Code"
+Para abrí-lo com VSCode, aperte-o com o botão direito e selecione "Abrir com > Visual Studio Code"
 ```
 
 4. **Escreva o nome do Pokémon (na linha 10 do código) onde está escrito:**
