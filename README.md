@@ -82,15 +82,17 @@ Por exemplo:
   
 Antes de iniciar o processo, você deve:
   
-1. **Abrir o Node.js command prompt (cmd)**
+1. **Abrir o Node.js command prompt (cmd);**
   
-2. Instalar o 'puppeteer' digitando
+2. Instalar o 'puppeteer', digitando:
   
 ```shell
 npm install puppeteer
 ```
+  
+<img src = 'https://lh3.googleusercontent.com/TGNUEwx6jgxtJlSUsxRvegZpER1jc0hCe5mtpbPHfJBd3DaLEKZBmRYgL9rABfChw7t1ozlZcGDVEaUBVKTKV8Q9DYLw6KPmGcNerdiMfRs7ed_YkpT7Mkr3twJ5Hp5PO4gDgQy2Zmmdn8MIkFagFmjJo8ZawiuwCuy9MNCIAqkvDXvgQCWeN51TGFrA-pOdilKiBArTJf3MXpOdBjwwn8KJ8KJBMImIcaL39IVDOVxVP0mYmpymfDM6BPv9Pg6WxTrPNpBBq8J4sP4lhd9ZFmKWkSnMZbsva2tXm7b_x37gskUTn3cxFakfPkWj779W8lG88B-tKsxtphDsMJ5mJXWSdYu0IqoIKX2gYb9l9MDNTJx5AC5E-7ch2biaXO1RCtueMxzfeuO2DMZjrKpw0qWLEYqzlU2UGlvVhSMWbmqRGvsUIlF4NglU6RWHax9X2hA1P4MpZq6plhRBmzh4hmqo47v9jkAU-ARLVGzlwhj1vBha00y1bFkZa9BlqVcFx3kgFSeR9M0vM7ywa8ayrgS8jHNJHiJiabUAchK-RoxyP23xSXmI38nPJrOpQD85Nz5vBF6hh7Byyc1bXOhihB45gzadMpIaj_2nrJZYg4YIw_s0CRUzOK97iAUQsTfnPKYexM8U9wniuA37rHMVmGyfV60F9iYcx6Vgd3t_4zX5jhsj7XRPaZ1GIig_vOgs0UW3EGjGSdr19AoXudKWX8-wl2vSxV4gBd6TSCvOVtLA1pZheTK2E4x9xqI1neHnLFdVn1nVpY7tczXfTYTEufN6eIxCWFWkjwMvYtyclhXukF2lPqbJko-3BnrNX6I3Abc4ouAgqc5RDf9ZC8AP6-WJhS1guWijrNOyAG1f9dW-AcREhScoEksHl8J7xDuvAdqX_A2HinTcDjYz1TYDdbxTXg6H1lpM12FuoiFS-HeXmOo0OA=w971-h290-no?authuser=0'>
 
-Para instalar e passar a usar o projeto,
+Pronto! Para instalar e passar a usar o projeto,
 
 1. **Clique em <a href = https://github.com/Elelebe/scraperBGC/archive/refs/heads/main.zip>baixar</a> para baixá-lo;**
 
