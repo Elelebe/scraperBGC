@@ -84,7 +84,7 @@ Antes de iniciar o processo, você deve:
   
 1. **Abrir o Node.js command prompt (cmd);**
   
-2. Instalar o 'puppeteer', digitando:
+2. **Instalar o 'puppeteer', digitando:**
   
 ```shell
 npm install puppeteer
