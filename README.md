@@ -79,6 +79,16 @@ Por exemplo:
 .<p>
  
  <h2>⚙️ Rodando o servidor</h2>
+  
+Antes de iniciar o processo, você deve:
+  
+1. **Abrir o Node.js command prompt (cmd)**
+  
+2. Instalar o 'puppeteer' digitando
+  
+```shell
+npm install puppeteer
+```
 
 Para instalar e passar a usar o projeto,
 
